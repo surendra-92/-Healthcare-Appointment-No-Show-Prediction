@@ -7,5 +7,21 @@
 ![Screenshot 2025-04-29 090443](https://github.com/user-attachments/assets/9a733b74-8fda-4eba-b9dd-86d4e68e25ff)
 ![Screenshot 2025-04-29 090525](https://github.com/user-attachments/assets/1f6c94a2-a4a1-4910-9ddc-e96bb5828287)
 
+
+
+ <br> 
+ HealthCare Appointment No show Prediction 
+ By using python and power bi created Dash board <br>
+ The Data got from kaggle <br>
+ and Imported in python by using pandas <br>
+ then cleaned data and removed null values <br>
+ After cleaning data<br>
+ imported this data into power bi i created insights dashboards <br>
+ KPI :-  <br>
+ 1) No-Shows By AgeGroup <br>
+ 2)No-Shows By LeadTime <br>
+ 3)No-shows By SMS-Received <br> 
+ 
+ 
  
 
